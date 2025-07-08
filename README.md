@@ -5,7 +5,7 @@ Bem-vindos ao repositório do projeto de uma Oficina Mecanica implementada em Ja
 Projeto Documentado com Diagrama de Classe, Casos de Uso e Diagramas de Sequencia.
 
 Parte Escrita do Projeto em LaTeX:
-https://www.overleaf.com/read/sczgdhcvhzpw#e039a6
+[https://www.overleaf.com/read/sczgdhcvhzpw#e039a6](https://www.overleaf.com/read/jhymtfvbywmb#6e50a7)
 
 Foco Projeto:
 Conceitos e uso de POO.
